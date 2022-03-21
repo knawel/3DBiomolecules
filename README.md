@@ -15,4 +15,4 @@ The tutorial covers the following topics:
 # Intro
 
 There are common specialized tools for making the excellent quality images. In most cases any of these programm is enouph for exploration of the 3D protein model and generation high-quality results. 
-(PyMol) [https://github.com/schrodinger/pymol-open-source]
+[PyMol](https://github.com/schrodinger/pymol-open-source)
