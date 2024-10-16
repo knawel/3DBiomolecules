@@ -28,3 +28,11 @@ The repository comprises two collections of examples:
 2. Reproductions of images from publications to demonstrate how similar visualizations can be achieved using Blender.
 
 Each example includes a Blender project file along with instructions covering workflow, hints, and links to community resources.
+
+# Content
+
+- **[Intro](intro.md)**
+- **[Import Structures into Blender](Skill_Building_Sessions/session_1/s1.md)**
+- **[Lighting and Filming](Skill_Building_Sessions/session_2/s2.md)**
+
+
