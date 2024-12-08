@@ -16,3 +16,8 @@ However, I found a few cases, when it's easier to use **PyMol** (or any other mo
 - You have to cut protein in very specific way to demontsrate something inside (binding pocket, ligands)
 - You want more flexibility in materials, light.
 - You make animation, simulate some real-world physical phenomena (gravity, water movement)
+
+
+# add node wrangler
+# link to Tiles/bricks https://www.youtube.com/watch?v=vmEkqtZMd5o
+# add link to polii
