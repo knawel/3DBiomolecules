@@ -18,6 +18,6 @@ However, I found a few cases, when it's easier to use **PyMol** (or any other mo
 - You make animation, simulate some real-world physical phenomena (gravity, water movement)
 
 
-# add node wrangler
+<!-- # add node wrangler
 # link to Tiles/bricks https://www.youtube.com/watch?v=vmEkqtZMd5o
-# add link to polii
+# add link to polii -->
