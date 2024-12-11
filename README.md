@@ -1,3 +1,5 @@
+![Banner](data/banner.png)
+
 # Introduction
 
 In many cases, common molecular modeling and visualization software can efficiently provide necessary results. Here's a list of my favorite applications:
