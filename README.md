@@ -20,7 +20,7 @@ The combination of these tools offers distinct advantages. Blender benefits from
 
 # Goal
 
-While there are numerous fantastic tutorials available for Blender (I began my journey with the [blender - donut tutorial](https://youtu.be/B0J27sf9N1Y?feature=shared)), PyMol, VMD, etc., there's a scarcity of information regarding combination Blender + PyMol. Therefore, I aim to share tips and insights with the community to facilitate the creation of visualizations for proteins and molecules using Blender.
+While there are numerous fantastic tutorials available for Blender (I began my journey with the [blender - donut tutorial](https://youtu.be/B0J27sf9N1Y?feature=shared)), PyMol, VMD, etc., there's limited guidance available for integrating Blender with PyMol. Therefore, I aim to share tips and insights with the community to facilitate the creation of visualizations for proteins and molecules using Blender.
 
 # Structure
 
