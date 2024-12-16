@@ -37,7 +37,7 @@ Each example includes a Blender project file along with instructions covering wo
 - **[Intro](intro.md)**
 - **[Import Structures into Blender](Skill_Building_Sessions/session_1/s1.md)**
 - **[Lighting and Filming](Skill_Building_Sessions/session_2/s2.md)**
-- **Texturing and Materials**
+- **[Texturing and Materials](Skill_Building_Sessions/session_3/s3.md)**
 - **Non biological objects**
 - **Geometrical nodes**
 
