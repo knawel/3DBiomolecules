@@ -33,8 +33,15 @@ Each example includes a Blender project file along with instructions covering wo
 
 # Content
 
+## Skill building sessions
 - **[Intro](intro.md)**
 - **[Import Structures into Blender](Skill_Building_Sessions/session_1/s1.md)**
 - **[Lighting and Filming](Skill_Building_Sessions/session_2/s2.md)**
+- **Texturing and Materials**
+- **Non biological objects**
+- **Geometrical nodes**
 
-
+## Examples
+- **Cut-away model**
+- **Protein with dust**
+- **Shape of the binding pocket**
